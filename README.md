@@ -38,6 +38,7 @@ CellSigLog 是一款 Android 蜂窝网络信号记录与地图可视化工具，
 4. 点击 Start Logging 开始记录，Stop Logging 停止并保存 CSV。
 5. 在 Settings 中可切换地图、调整刷新/图例/上传设置。
 6. 如需查看旧日志，进入 Settings -> Replay Saved Log，选择之前保存的 CSV 文件。
+7. 电脑端地理化显示：https://signal.finetopix.com/map
 
 ### 隐私说明
 
@@ -87,6 +88,7 @@ CellSigLog is an Android cellular signal logging and map visualization tool for 
 4. Tap Start Logging to record data, then Stop Logging to save a CSV.
 5. Use Settings to change map provider, refresh interval, legend thresholds, and upload behavior.
 6. To inspect an old log, open Settings -> Replay Saved Log and select a saved CSV file.
+7. PC Map view URL: https://signal.finetopix.com/map
 
 ### Privacy Note
 
