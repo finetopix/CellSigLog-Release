@@ -8,8 +8,6 @@ CellSigLog 是一款 Android 蜂窝网络信号记录与地图可视化工具，
 
 ### 下载
 
-- 最新版本：v1.3.48
-- APK 下载：[CellSigLog-v1.3.48.apk](https://github.com/finetopix/CellSigLog-Release/releases/download/v1.3.48/CellSigLog-v1.3.48.apk)
 - 所有版本：[GitHub Releases](https://github.com/finetopix/CellSigLog-Release/releases)
 
 ### 主要功能
@@ -58,8 +56,6 @@ CellSigLog is an Android cellular signal logging and map visualization tool for 
 
 ### Download
 
-- Latest version: v1.3.48
-- APK download: [CellSigLog-v1.3.48.apk](https://github.com/finetopix/CellSigLog-Release/releases/download/v1.3.48/CellSigLog-v1.3.48.apk)
 - All versions: [GitHub Releases](https://github.com/finetopix/CellSigLog-Release/releases)
 
 ### Features
